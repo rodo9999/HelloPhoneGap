@@ -1,6 +1,6 @@
 # PhoneGap Build Starter Application
 
-> A Hello World application to get started with PhoneGap Build.
+> A Hello World application to get started with PhoneGap Build. Este ejemplo funciona.
 
 ## Usage
 
